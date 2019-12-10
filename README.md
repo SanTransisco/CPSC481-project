@@ -1,9 +1,12 @@
 # CPSC481-project
 # How to run the Minotaur AI Maze
 
-1.) If you do not have pygame and Pillow installed already, use the commands
+1.) If you do not have pygame and Pillow installed already, use the commands:
     ```
     pip3 install pygame
+    ```
+    and
+    ```
     pip3 install Pillow
     ```
        
